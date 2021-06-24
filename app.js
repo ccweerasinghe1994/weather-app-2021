@@ -32,14 +32,13 @@ request(
     json: true,
   },
   (error, response, body) => {
-    if(error){
+    if (error) {
       console.log("unable to connect to the api");
-    }else if(body.message){
+    } else if (body.message) {
       console.log("there is no data for this request");
       console.log(body.message);
-    }else{
+    } else {
       console.log(body);
     }
-    
   }
 );
