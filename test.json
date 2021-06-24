@@ -1,0 +1,406 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 284052,
+            "original_language": "en",
+            "original_title": "Doctor Strange",
+            "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+            "popularity": 95.945,
+            "poster_path": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+            "release_date": "2016-10-25",
+            "title": "Doctor Strange",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 17049
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg",
+            "genre_ids": [
+                27,
+                18,
+                14,
+                53
+            ],
+            "id": 501170,
+            "original_language": "en",
+            "original_title": "Doctor Sleep",
+            "overview": "Still irrevocably scarred by the trauma he endured as a child at the Overlook, Dan Torrance has fought to find some semblance of peace. But that peace is shattered when he encounters Abra, a courageous teenager with her own powerful extrasensory gift, known as the 'shine'. Instinctively recognising that Dan shares her power, Abra has sought him out, desperate for his help against the merciless Rose the Hat and her followers.",
+            "popularity": 27.463,
+            "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+            "release_date": "2019-10-30",
+            "title": "Doctor Sleep",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 2738
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pRMZilt1YIsu6aNnlpf0lo5Brm4.jpg",
+            "genre_ids": [
+                18,
+                53,
+                9648
+            ],
+            "id": 65650,
+            "original_language": "en",
+            "original_title": "The Good Doctor",
+            "overview": "Dr. Martin Blake, who has spent his life looking for respect, meets an 18-year-old patient named Diane, suffering from a kidney infection, and gets a much-needed boost of self-esteem. However, when her health starts improving, Martin fears losing her, so he begins tampering with her treatment, keeping Diane sick and in the hospital right next to him.",
+            "popularity": 29.613,
+            "poster_path": "/fJSdqHzpMeCkXMrILYt1SdGN2sL.jpg",
+            "release_date": "2011-04-23",
+            "title": "The Good Doctor",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nCvM85EzfqC9LWOBr04vJsIv4bO.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                14
+            ],
+            "id": 3050,
+            "original_language": "en",
+            "original_title": "Doctor Dolittle",
+            "overview": "A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor's advice, unleashing an outrageous chain of events that turns his world upside down!",
+            "popularity": 16.704,
+            "poster_path": "/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+            "release_date": "1998-06-26",
+            "title": "Doctor Dolittle",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 2314
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zfb4SvGjvrdRGmbhaZrrOsxOfez.jpg",
+            "genre_ids": [
+                28,
+                16,
+                14,
+                878
+            ],
+            "id": 14830,
+            "original_language": "en",
+            "original_title": "Doctor Strange",
+            "overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+            "popularity": 11.583,
+            "poster_path": "/kP5ihakYGSTZ7FQDXBSbqla9men.jpg",
+            "release_date": "2007-08-14",
+            "title": "Doctor Strange",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
+            "genre_ids": [
+                878,
+                10770
+            ],
+            "id": 317190,
+            "original_language": "en",
+            "original_title": "Doctor Who: The Next Doctor",
+            "overview": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
+            "popularity": 8.435,
+            "poster_path": "/kDqIMVtDx9UuexVJVNXUxUrHfJl.jpg",
+            "release_date": "2008-12-25",
+            "title": "Doctor Who: The Next Doctor",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 161
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oqlf5jQohMQLG0h4NTMHFNinirP.jpg",
+            "genre_ids": [
+                10770,
+                12,
+                878
+            ],
+            "id": 15691,
+            "original_language": "en",
+            "original_title": "Doctor Who",
+            "overview": "The Seventh Doctor becomes the Eighth. And on the streets of San Francisco – alongside new ally Grace Holloway - he battles the Master.",
+            "popularity": 8.078,
+            "poster_path": "/sJzc1jXpoG8Px9K26ksFfTpAgcg.jpg",
+            "release_date": "1996-05-12",
+            "title": "Doctor Who",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 154
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jxCg8DJasmZHE5BjDncpkpyNtTu.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 313106,
+            "original_language": "en",
+            "original_title": "Doctor Who: The Day of the Doctor",
+            "overview": "In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+            "popularity": 9.05,
+            "poster_path": "/qkhP3bhxQQjs1bGEWNts64DOUkK.jpg",
+            "release_date": "2013-11-23",
+            "title": "Doctor Who: The Day of the Doctor",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 603
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/runLIrbMcsjj1L5LnzFMsZnFYau.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                14,
+                10402
+            ],
+            "id": 16081,
+            "original_language": "en",
+            "original_title": "Doctor Dolittle",
+            "overview": "A veterinarian who can communicate with animals travels abroad to search for a giant sea snail.",
+            "popularity": 8.625,
+            "poster_path": "/hsbUAyzgMtF7NC6pR2SEk0UgeNU.jpg",
+            "release_date": "1967-12-05",
+            "title": "Doctor Dolittle",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kMdvowuSvAbYfugANje3qUqkbxQ.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                10752
+            ],
+            "id": 907,
+            "original_language": "en",
+            "original_title": "Doctor Zhivago",
+            "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+            "popularity": 8.643,
+            "poster_path": "/mTy6RoFAOtvFsdELTSN838JuvSD.jpg",
+            "release_date": "1965-12-22",
+            "title": "Doctor Zhivago",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 727
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eVrscRpAook4jnRYYh11x1fT48Y.jpg",
+            "genre_ids": [
+                18,
+                878,
+                10770
+            ],
+            "id": 282848,
+            "original_language": "en",
+            "original_title": "Doctor Who: The Time of the Doctor",
+            "overview": "Orbiting a quiet backwater planet, the massed forces of the universe's deadliest species gather, drawn to a mysterious message that echoes out to the stars. And amongst them, the Doctor. Rescuing Clara from a family Christmas dinner, the Time Lord and his best friend must learn what this enigmatic signal means for his own fate and that of the universe.",
+            "popularity": 7.326,
+            "poster_path": "/7blrzLLfj34vV45HYmPccvhNSRZ.jpg",
+            "release_date": "2013-12-25",
+            "title": "Doctor Who: The Time of the Doctor",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bfLpfwWFvYPVkocTgZR7yXA0CO1.jpg",
+            "genre_ids": [
+                12,
+                14,
+                9648
+            ],
+            "id": 8054,
+            "original_language": "en",
+            "original_title": "The Imaginarium of Doctor Parnassus",
+            "overview": "A traveling theater company gives its audience much more than they were expecting.",
+            "popularity": 13.251,
+            "poster_path": "/ffmoKFV1paKDft2fqVANZamnP5j.jpg",
+            "release_date": "2009-10-01",
+            "title": "The Imaginarium of Doctor Parnassus",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 2145
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 448390,
+            "original_language": "en",
+            "original_title": "Doctor Strange: Strange Company",
+            "overview": "A closer look at the support characters (in the comics and in the film) and the actors who portray them. This supplement also explores Director Scott Derrickson's work and the qualities he brought to the film.",
+            "popularity": 8.556,
+            "poster_path": "/6bL4zRoQPbejH5HDgNrF7NAMUI7.jpg",
+            "release_date": "2017-02-28",
+            "title": "Doctor Strange: Strange Company",
+            "video": true,
+            "vote_average": 7.1,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tBcpBqq1gOT7CZc4m7sj2KDy68m.jpg",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "id": 315623,
+            "original_language": "en",
+            "original_title": "Doctor Who: The Doctor, the Widow and the Wardrobe",
+            "overview": "It's Christmas Eve, 1938, when Madge Arwell comes to the aid of an injured Spaceman Angel as she cycles home. He promises to repay her kindness - all she has to do is make a wish.",
+            "popularity": 5.705,
+            "poster_path": "/3yJ2HKPsIXYhn8cqTClvvuoZyX7.jpg",
+            "release_date": "2011-12-25",
+            "title": "Doctor Who: The Doctor, the Widow and the Wardrobe",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 69
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                14,
+                28,
+                12,
+                27
+            ],
+            "id": 453395,
+            "original_language": "en",
+            "original_title": "Doctor Strange in the Multiverse of Madness",
+            "overview": "Dr. Stephen Strange's continuing research on the Time Stone is hindered by a friend-turned-enemy, resulting in Strange unleashing unspeakable evil.",
+            "popularity": 16.234,
+            "poster_path": "/cSUFuITYSoilm4pZyXVI4bzHnJ3.jpg",
+            "release_date": "2022-03-23",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nVn846U8YgDuh7QtRIv0iIKA0pq.jpg",
+            "genre_ids": [
+                10770,
+                12,
+                878,
+                18,
+                10751
+            ],
+            "id": 369145,
+            "original_language": "en",
+            "original_title": "Doctor Who: The Snowmen",
+            "overview": "The Doctor has retired to 1892 London. Despite the protests of his allies, he is determined to keep out of mankind's affairs. However, a governess named Clara has stumbled upon a plot which only the Doctor can unravel, involving the death of her predecessor in ice and the sinister Dr. Simeon, who controls monsters made of sentient snow. And there is another mystery afoot: Clara is the spitting image of Oswin Oswald, whom the Doctor saw die in the Dalek asylum...",
+            "popularity": 6.519,
+            "poster_path": "/6JEGsCbGcNiF0WUyoqL0ACmAjFi.jpg",
+            "release_date": "2012-12-25",
+            "title": "Doctor Who: The Snowmen",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/szMyShEn7HYmYo2TMMuGrWxmhTG.jpg",
+            "genre_ids": [
+                878,
+                12,
+                18,
+                14,
+                10770
+            ],
+            "id": 317182,
+            "original_language": "en",
+            "original_title": "Doctor Who: Last Christmas",
+            "overview": "The Doctor and Clara face their Last Christmas. Trapped on an Arctic base, under attack from terrifying creatures, who are you going to call? Santa Claus!",
+            "popularity": 6.424,
+            "poster_path": "/tpvZ4LxqBLIacWBMJueXPIbdlwP.jpg",
+            "release_date": "2014-12-25",
+            "title": "Doctor Who: Last Christmas",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 193
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cFatLWWye35gTB1FvWI5X5jqrs3.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 23096,
+            "original_language": "en",
+            "original_title": "Doctor Detroit",
+            "overview": "A shy but gentle man named Clifford Skridlow is a professor of comparative literature at the financially-strapped fictional Monroe College in Chicago. A chance encounter with four beautiful women at a restaurant changes his life forever.",
+            "popularity": 3.894,
+            "poster_path": "/aluYVLiLMn5cRPBJV6YyXkItwyZ.jpg",
+            "release_date": "1983-05-06",
+            "title": "Doctor Detroit",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6kguRk2F3uv1uSggnJec8uNk8PE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 26142,
+            "original_language": "en",
+            "original_title": "The Doctor",
+            "overview": "Jack McKee is a doctor with it all: he's successful, he's rich, and he has no problems.... until he is diagnosed with throat cancer. Now that he has seen medicine, hospitals, and doctors from a patient's perspective, he realises that there is more to being a doctor than surgery and prescriptions.",
+            "popularity": 3.985,
+            "poster_path": "/rExMpi701EIvEGu49FlOS8I0Kag.jpg",
+            "release_date": "1991-07-24",
+            "title": "The Doctor",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                99
+            ],
+            "id": 448383,
+            "original_language": "en",
+            "original_title": "Doctor Strange: The Score-Cerer Supreme",
+            "overview": "A discussion of Michael Giacchino's work on the film and the themes the music conveys and supports for the film.",
+            "popularity": 9.28,
+            "poster_path": "/zHJYRHI5HkQuwLW5KyeXGQ596u7.jpg",
+            "release_date": "2017-02-28",
+            "title": "Doctor Strange: The Score-Cerer Supreme",
+            "video": true,
+            "vote_average": 8.8,
+            "vote_count": 4
+        }
+    ],
+    "total_pages": 40,
+    "total_results": 796
+}
